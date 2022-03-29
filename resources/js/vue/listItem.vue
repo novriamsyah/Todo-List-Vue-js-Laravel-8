@@ -56,7 +56,7 @@ export default {
 
 .itemText{
     width: 100%;
-    color: #5C5D67;
+    color: #000000;
     font-weight: bold;
     font-size: 16px;
 }

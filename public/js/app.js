@@ -12290,7 +12290,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.itemDiv[data-v-1d1939b8]{\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n.checkbox[data-v-1d1939b8]{\n    margin-right: 1rem;\n    padding: 20px 25px;\n    border-radius: 5px;\n}\n.completed[data-v-1d1939b8]{\n    text-decoration: line-through;\n}\n.itemText[data-v-1d1939b8]{\n    width: 100%;\n    color: #5C5D67;\n    font-weight: bold;\n    font-size: 16px;\n}\n.trash[data-v-1d1939b8]{\n    border: none;\n    color: #ff0000;\n    outline: none;\n    margin-right: 1rem;\n    background-color: transparent;\n    font-size: 1.5rem;\n    cursor: pointer;\n}\n", ""]);
+exports.push([module.i, "\n.itemDiv[data-v-1d1939b8]{\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n.checkbox[data-v-1d1939b8]{\n    margin-right: 1rem;\n    padding: 20px 25px;\n    border-radius: 5px;\n}\n.completed[data-v-1d1939b8]{\n    text-decoration: line-through;\n}\n.itemText[data-v-1d1939b8]{\n    width: 100%;\n    color: #000000;\n    font-weight: bold;\n    font-size: 16px;\n}\n.trash[data-v-1d1939b8]{\n    border: none;\n    color: #ff0000;\n    outline: none;\n    margin-right: 1rem;\n    background-color: transparent;\n    font-size: 1.5rem;\n    cursor: pointer;\n}\n", ""]);
 
 // exports
 
