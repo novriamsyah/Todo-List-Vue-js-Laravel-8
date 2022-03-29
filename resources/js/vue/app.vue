@@ -93,7 +93,7 @@ export default {
 
 <style scoped>
     .todocontainer{
-        width: 450px;
+        width: 550px;
         margin: auto;
     }
 
@@ -103,13 +103,13 @@ export default {
     }
     .logo {
         text-align: center;
-        margin-top: 10px;
-        margin-bottom: -50px;
+        margin-top: 5px;
+        margin-bottom: -40px;
     }
     #title {
         text-align: center;
-        font-weight: 700;
-        font-size: 46px;
+        font-weight: bold;
+        font-size: 42px;
         color: #ffffff;
     }
 </style>

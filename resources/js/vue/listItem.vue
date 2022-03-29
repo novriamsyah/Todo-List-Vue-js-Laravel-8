@@ -58,7 +58,7 @@ export default {
     width: 100%;
     color: #000000;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .trash{

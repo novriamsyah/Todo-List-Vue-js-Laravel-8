@@ -12271,7 +12271,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.todocontainer[data-v-27d9b80a]{\n    width: 450px;\n    margin: auto;\n}\n.heading[data-v-27d9b80a] {\n    background: #020631;\n    padding: 10px;\n}\n.logo[data-v-27d9b80a] {\n    text-align: center;\n    margin-top: 10px;\n    margin-bottom: -50px;\n}\n#title[data-v-27d9b80a] {\n    text-align: center;\n    font-weight: 700;\n    font-size: 46px;\n    color: #ffffff;\n}\n", ""]);
+exports.push([module.i, "\n.todocontainer[data-v-27d9b80a]{\n    width: 550px;\n    margin: auto;\n}\n.heading[data-v-27d9b80a] {\n    background: #020631;\n    padding: 10px;\n}\n.logo[data-v-27d9b80a] {\n    text-align: center;\n    margin-top: 5px;\n    margin-bottom: -40px;\n}\n#title[data-v-27d9b80a] {\n    text-align: center;\n    font-weight: bold;\n    font-size: 42px;\n    color: #ffffff;\n}\n", ""]);
 
 // exports
 
@@ -12290,7 +12290,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.itemDiv[data-v-1d1939b8]{\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n.checkbox[data-v-1d1939b8]{\n    margin-right: 1rem;\n    padding: 20px 25px;\n    border-radius: 5px;\n}\n.completed[data-v-1d1939b8]{\n    text-decoration: line-through;\n}\n.itemText[data-v-1d1939b8]{\n    width: 100%;\n    color: #000000;\n    font-weight: bold;\n    font-size: 16px;\n}\n.trash[data-v-1d1939b8]{\n    border: none;\n    color: #ff0000;\n    outline: none;\n    margin-right: 1rem;\n    background-color: transparent;\n    font-size: 1.5rem;\n    cursor: pointer;\n}\n", ""]);
+exports.push([module.i, "\n.itemDiv[data-v-1d1939b8]{\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n.checkbox[data-v-1d1939b8]{\n    margin-right: 1rem;\n    padding: 20px 25px;\n    border-radius: 5px;\n}\n.completed[data-v-1d1939b8]{\n    text-decoration: line-through;\n}\n.itemText[data-v-1d1939b8]{\n    width: 100%;\n    color: #000000;\n    font-weight: bold;\n    font-size: 17px;\n}\n.trash[data-v-1d1939b8]{\n    border: none;\n    color: #ff0000;\n    outline: none;\n    margin-right: 1rem;\n    background-color: transparent;\n    font-size: 1.5rem;\n    cursor: pointer;\n}\n", ""]);
 
 // exports
 
@@ -12309,7 +12309,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.listView[data-v-ec8cc32a] {\n    background:#020631;\n    width: 475px;\n}\n.item[data-v-ec8cc32a]{\n    padding: 5px;\n    margin-top: 10px;\n    margin-left: -20px;\n    background: #ffffff;\n    border-radius: 5px;\n    margin-bottom: 7px;\n    position: relative;\n    word-break: break-word;\n}\n", ""]);
+exports.push([module.i, "\n.listView[data-v-ec8cc32a] {\n    background:#020631;\n    width: 575px;\n}\n.item[data-v-ec8cc32a]{\n    padding: 5px;\n    margin-top: 10px;\n    margin-left: -20px;\n    background: #ffffff;\n    border-radius: 5px;\n    margin-bottom: 7px;\n    position: relative;\n    word-break: break-word;\n}\n", ""]);
 
 // exports
 

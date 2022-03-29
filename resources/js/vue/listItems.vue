@@ -17,7 +17,7 @@ export default {
 <style scoped>
     .listView {
         background:#020631;
-        width: 475px;
+        width: 575px;
     }
     .item{
         padding: 5px;
